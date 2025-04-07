@@ -18,6 +18,7 @@ body{
     display: flex;
     flex-direction: column;
     padding: 50px;
+    background-color:rosybrown;
 
 }
 .container .direita{
@@ -26,6 +27,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: rosybrown;
     
 }
 .container .esquerda h5{
@@ -36,7 +38,7 @@ body{
 .container .esquerda label {
     font-weight: bold;
     font-size: 17px;
-    color: #858384;
+    color: #EC4B5C;
 }
 .container .esquerda input{
     width: 80%;
